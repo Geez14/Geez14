@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: contact my colleages, or give a message throught my social media handles.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know 0.1 + 0.2 != 0.3 in computers!
-- 📃 My portfolio [portfolio]: https://geez14.github.io/Portfolio/
+- 📃 My portfolio [portfolio]:(https://geez14.github.io/Portfolio/)
